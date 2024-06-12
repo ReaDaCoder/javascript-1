@@ -6,3 +6,6 @@ let subtraction = number3 - number4;
 let multiplication = number3 *number4;
 let division = number3 / number4;
 let modulus = number3 % number4;
+let exponentiation = number3 ** number4;
+
+console.log(addition, subtraction, multiplication, division, modulus, exponentiation);
