@@ -21,3 +21,8 @@ console.log(greater, lessequal, equal, notEqual);
 
 let a = true;
 let b = false;
+
+let and = a && b;
+let or = a || b;
+let not = a != b;
+console.log(and, or, not);
