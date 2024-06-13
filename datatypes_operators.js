@@ -9,3 +9,15 @@ let modulus = number3 % number4;
 let exponentiation = number3 ** number4;
 
 console.log(addition, subtraction, multiplication, division, modulus, exponentiation);
+
+let x = 8;
+let y = 12;
+
+let greater = x > y;
+let lessequal = x <= y;
+let equal = x == y;
+let notEqual = x !==y;
+console.log(greater, lessequal, equal, notEqual);
+
+let a = true;
+let b = false;
