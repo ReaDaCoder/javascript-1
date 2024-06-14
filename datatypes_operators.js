@@ -26,3 +26,20 @@ let and = a && b;
 let or = a || b;
 let not = a != b;
 console.log(and, or, not);
+
+let p = 10;
+
+p += 7;
+console.log(p);
+
+p -= 8;
+console.log(p);
+
+p *= 3;
+console.log(p);
+
+p/= 10;
+console.log(p);
+
+p %= 13;
+console.log(p);
