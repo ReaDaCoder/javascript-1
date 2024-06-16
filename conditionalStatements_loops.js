@@ -22,3 +22,19 @@ switch(temp){
     case temp >25:
         console.log("It's warm");
 }
+
+let divide;
+divide = "";
+
+if(divide % 2&3===0){
+    console.log("Divisible by both");
+}
+else if(divide%2===0){
+    console.log("Divisible by 2");
+}
+else if(divide%3===0){
+    console.log("Divisible by3");
+}
+ else (divide === 0) {
+    console.log("Not divisible by 2 or 3");
+}
